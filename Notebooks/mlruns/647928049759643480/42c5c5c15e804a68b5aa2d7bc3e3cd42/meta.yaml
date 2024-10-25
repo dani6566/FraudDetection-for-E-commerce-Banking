@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lenovo/Documents/10acadmy/FraudDetection-for-E-commerce-Banking/Notebooks/mlruns/647928049759643480/42c5c5c15e804a68b5aa2d7bc3e3cd42/artifacts
+end_time: 1729673301286
+entry_point_name: ''
+experiment_id: '647928049759643480'
+lifecycle_stage: active
+run_id: 42c5c5c15e804a68b5aa2d7bc3e3cd42
+run_name: MLP
+run_uuid: 42c5c5c15e804a68b5aa2d7bc3e3cd42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672992740
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lenovo/Documents/10acadmy/FraudDetection-for-E-commerce-Banking/Notebooks/mlruns/647928049759643480/ade36a7790084a29ba8945aa9be9b22e/artifacts
+end_time: 1729672992225
+entry_point_name: ''
+experiment_id: '647928049759643480'
+lifecycle_stage: active
+run_id: ade36a7790084a29ba8945aa9be9b22e
+run_name: Gradient Boosting
+run_uuid: ade36a7790084a29ba8945aa9be9b22e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672975630
+status: 3
+tags: []
+user_id: lenovo

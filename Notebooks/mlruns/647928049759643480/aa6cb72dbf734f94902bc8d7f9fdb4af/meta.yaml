@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lenovo/Documents/10acadmy/FraudDetection-for-E-commerce-Banking/Notebooks/mlruns/647928049759643480/aa6cb72dbf734f94902bc8d7f9fdb4af/artifacts
+end_time: 1729672163159
+entry_point_name: ''
+experiment_id: '647928049759643480'
+lifecycle_stage: active
+run_id: aa6cb72dbf734f94902bc8d7f9fdb4af
+run_name: Logistic Regression
+run_uuid: aa6cb72dbf734f94902bc8d7f9fdb4af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672162885
+status: 4
+tags: []
+user_id: lenovo

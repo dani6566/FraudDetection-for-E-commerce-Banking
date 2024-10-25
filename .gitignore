@@ -9,6 +9,10 @@ __pycache__/
 #data
 data/
 
+#model
+*.pkl 
+*.h5
+
 *.csv
 
 # Distribution / packaging

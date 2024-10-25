@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lenovo/Documents/10acadmy/FraudDetection-for-E-commerce-Banking/Notebooks/mlruns/773455152315705189/571c43583b5e4c35838b4803e3cebe8f/artifacts
+end_time: 1729533876036
+entry_point_name: ''
+experiment_id: '773455152315705189'
+lifecycle_stage: active
+run_id: 571c43583b5e4c35838b4803e3cebe8f
+run_name: CNN
+run_uuid: 571c43583b5e4c35838b4803e3cebe8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729533574023
+status: 3
+tags: []
+user_id: lenovo

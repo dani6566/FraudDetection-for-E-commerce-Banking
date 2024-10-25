@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lenovo/Documents/10acadmy/FraudDetection-for-E-commerce-Banking/Notebooks/mlruns/647928049759643480/0de1781cadc1476e858b838f20edb655/artifacts
+end_time: 1729672536704
+entry_point_name: ''
+experiment_id: '647928049759643480'
+lifecycle_stage: active
+run_id: 0de1781cadc1476e858b838f20edb655
+run_name: Decision Tree
+run_uuid: 0de1781cadc1476e858b838f20edb655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672525357
+status: 3
+tags: []
+user_id: lenovo

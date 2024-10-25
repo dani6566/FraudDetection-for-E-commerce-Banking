@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lenovo/Documents/10acadmy/FraudDetection-for-E-commerce-Banking/Notebooks/mlruns/647928049759643480/2d00026015a64523b5ee9aad28a5daca/artifacts
+end_time: 1729672975593
+entry_point_name: ''
+experiment_id: '647928049759643480'
+lifecycle_stage: active
+run_id: 2d00026015a64523b5ee9aad28a5daca
+run_name: Random Forest
+run_uuid: 2d00026015a64523b5ee9aad28a5daca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672955758
+status: 3
+tags: []
+user_id: lenovo
